@@ -17,7 +17,7 @@ const Home = () => {
           <p className="text-xl md:text-2xl mb-8">
             Content Creator | Entrepreneur | Influencer
           </p>
-          <SocialIcons />
+          {/* <SocialIcons /> */}
           <button className="mt-8 bg-white text-purple-600 px-8 py-3 rounded-full font-bold hover:bg-gray-100 transition duration-300">
             Explore My Work
           </button>
